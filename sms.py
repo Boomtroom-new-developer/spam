@@ -58,4 +58,5 @@ t = SMS()
 def loop(num):
     for i in range(num):
         t.spamais(numbers)
+        t.spammono(numbers)
 loop(num)
